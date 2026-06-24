@@ -18,6 +18,8 @@ Traditional SEO tools measure Google rankings — but **no tool measures AI visi
 
 **GEO Tracker** (Generative Engine Optimization Tracker) solves this by automatically querying an AI model daily with brand-relevant questions, analyzing the responses, and delivering a structured dashboard + email report.
 
+Link dashboard: [Dashboard](https://datastudio.google.com/reporting/4fff625c-9ac7-41bf-9e13-196af9952d7e)
+
 ---
 
 ## 🎯 Use Case
@@ -57,6 +59,7 @@ This project tracks **L'Oreal's AI visibility** in the Southeast Asian e-commerc
          ↓
   [Looker Studio Dashboard]
 ```
+<img width="743" height="334" alt="image" src="https://github.com/user-attachments/assets/c4e18a5b-191e-4c33-93cb-02159d2a434d" />
 
 ---
 
@@ -164,8 +167,9 @@ Sent automatically after each run:
 ❌ How to find authentic skincare on TikTok Shop?
 ❌ Best budget sunscreen brands in Vietnam
 
-🔗 View Full Dashboard → [Looker Studio Link]
+🔗 View Full Dashboard → [[Looker Studio Link]]
 ```
+<img width="360" height="368" alt="image" src="https://github.com/user-attachments/assets/b85c5683-01b9-4f07-a13a-9670c59604ce" />
 
 ---
 
